@@ -7,5 +7,5 @@ Live preview: https://danijelgomola.github.io/landing-page
 [Header Logo](https://pixabay.com/vectors/cat-paw-pet-animal-kitty-adorable-8685499) by [u_fg0tkeqgiy](https://pixabay.com/users/u_fg0tkeqgiy-26019190)
 
 Other images:
-[Image of cat](https://pixabay.com/photos/cat-feline-european-cat-alley-cat-8451431) by [JACLOU-DL](https://pixabay.com/users/jaclou-dl-5602247)
-[Illustrations](https://pixabay.com/users/2375405/?tab=vectors) by [mcmurryjulie](https://pixabay.com/users/mcmurryjulie-2375405)
+* [Image of cat](https://pixabay.com/photos/cat-feline-european-cat-alley-cat-8451431) by [JACLOU-DL](https://pixabay.com/users/jaclou-dl-5602247)
+* [Illustrations](https://pixabay.com/users/2375405/?tab=vectors) by [mcmurryjulie](https://pixabay.com/users/mcmurryjulie-2375405)
